@@ -1,0 +1,1 @@
+# kind with istio setup
